@@ -251,3 +251,9 @@ C:\Users\jayde\Documents\GitHub\401Lab12\Lab12\bin\Debug\net7.0\Microsoft.OpenAp
 C:\Users\jayde\Documents\GitHub\401Lab12\Lab12\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\jayde\Documents\GitHub\401Lab12\Lab12\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\jayde\Documents\GitHub\401Lab12\Lab12\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jayde\Documents\GitHub\401Lab12\Lab12\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jayde\Documents\GitHub\401Lab12\Lab12\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jayde\Documents\GitHub\401Lab12\Lab12\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jayde\Documents\GitHub\401Lab12\Lab12\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jayde\Documents\GitHub\401Lab12\Lab12\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jayde\Documents\GitHub\401Lab12\Lab12\bin\Debug\net7.0\Microsoft.Extensions.Options.dll

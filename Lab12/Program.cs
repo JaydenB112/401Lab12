@@ -49,7 +49,7 @@ namespace Lab12
             app.UseAuthorization();
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{cotroller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Home}/{action=Index}/{id?}");
 
             // https://localhost:33491/Hotel/CheckIn/1
             app.Run();
